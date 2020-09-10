@@ -31,8 +31,8 @@ Rainy	73	open	happy	no
 Stormy	59	open	content	no
 Cloudy	77	closed	happy	no
 Cloudy	74	closed	happy	no
-Sunny	82	open	content	yes
-Sunny	89	open	sad		yes
-Sunny 91 open happy no
-Sunny 92 open happy no
-Sunny 95 open content no
+Sunny	  82	open	content	yes
+Sunny	  89	open	sad		yes
+Sunny   91  open happy no
+Sunny   92  open happy no
+Sunny   95  open content no
