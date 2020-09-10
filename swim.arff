@@ -1,0 +1,35 @@
+
+%swim at local pool y/n?
+
+@relation swim
+
+@attribute weather {Rainy,Sunny,Cloudy,Stormy}
+@attribute temp numeric
+@attribute pool {closed,open}
+@attribute mood {happy, content,sad}
+@attribute answer {yes,no}
+
+
+@data
+Rainy	63	open	happy	no
+Sunny	81  open	content	yes
+Cloudy	69	closed	content	no
+Sunny	84	open	content	yes
+Cloudy	67	open	content	yes
+Cloudy	70	open	sad		no
+Rainy	59	open	content	no
+Stormy	60	open	content	no
+Cloudy	69	closed	content	no
+Sunny	86	open	sad		no
+Cloudy	66	open	content	yes
+Cloudy	71	open	happy	yes
+Cloudy	71	open	content	yes
+Rainy	61	open	content	no
+Sunny	85	closed	happy	no
+Rainy	72	open	happy	no
+Rainy	73	open	happy	no
+Stormy	59	open	content	no
+Cloudy	77	closed	happy	no
+Cloudy	74	closed	happy	no
+Sunny	82	open	content	yes
+Sunny	89	open	sad		yes
